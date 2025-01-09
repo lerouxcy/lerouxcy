@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lerouxcy
+- 👋 Hi, I’m Cyril
 - 👀 I’m interested in musicology, vinyle records
 - 🌱 I’m currently learning Python, Datascience
 - 💞️ I’m looking to collaborate on ...
